@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/test-task/static/css/main.a48e3e75.css",
+    "main.js": "/test-task/static/js/main.a4b40a66.js",
+    "index.html": "/test-task/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a48e3e75.css",
+    "static/js/main.a4b40a66.js"
+  ]
+}
